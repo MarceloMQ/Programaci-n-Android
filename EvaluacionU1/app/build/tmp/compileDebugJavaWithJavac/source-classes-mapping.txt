@@ -1,0 +1,5 @@
+com/mmadariaga/evaluacionu1/MainActivity.java
+ com.mmadariaga.evaluacionu1.MainActivity
+ com.mmadariaga.evaluacionu1.MainActivity$1
+com/mmadariaga/evaluacionu1/BuildConfig.java
+ com.mmadariaga.evaluacionu1.BuildConfig
